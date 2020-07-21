@@ -1,2 +1,3 @@
 # OptimaRegion_Functions
-Statistical Inference on Global Optima
+
+## Authors: Peng Chen, Enrique del Castillo
