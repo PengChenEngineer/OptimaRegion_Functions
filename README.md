@@ -1,5 +1,5 @@
 # OptimaRegion_Functions
 
-## Some R functions to aid statistical inferences on global optima
-
 ### Authors from Penn State: Peng Chen, Enrique del Castillo, Adam Meyers
+
+Some R functions to compute confidence/credible regions on the locations of the global optima of parametric/nonparametric response surface models fitted from experimental data.
